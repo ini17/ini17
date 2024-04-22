@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Micro-Expression Recognition
-- 📫 Feel free to main me: sillin@csu.edu.cn
+- 📫 Feel free to mail me: sillin@csu.edu.cn
 
 <!---
 ini17/ini17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
