@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ini17
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Micro-Expression Recognition
+- 👀 I’m interested in Multi-task Learning and Selective Classification.
+- 🌱 I’m currently researching Micro-expression Recognition.
+- 💞️ I’m looking to collaborate on Micro-Expression Recognition.
 - 📫 Feel free to mail me: sillin@csu.edu.cn
 
 <!---
